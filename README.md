@@ -1,9 +1,3 @@
-# Dev Portfolio Template
-
-This repo contains an easy-to-customize personal dev portfolio template that was created with Sass and JavaScript. It is lightweight and fully responsive, as well as comes with the Bootstrap grid system and loaded with Font Awesome. The site is static and comes production ready if you just want to add your information and go. Alternatively, you can edit styles, colours, and scripts fairly easily. The site was built as modular as possible to make it easy to shift around styles and content.
-
-To view a live demo, [click here](https://ryanfitzgerald.github.io/devportfolio-template/).
-
 ## Features
 
 * Gulp ready (compiles Sass and minifies JS)
@@ -115,7 +109,7 @@ The about section contains a quick about blurb that can be edited by changing th
 
 ### Experience Section
 
-The experience section creates a vertical timeline with all your relevant experience. The code for the timeline creation can be found within `js/scripts.js` and is an adaptaion of [RyanFitzgerald/vertical-timeline](https://github.com/RyanFitzgerald/vertical-timeline).
+The experience section creates a vertical timeline with all your relevant experience. The code for the timeline creation can be found within `js/scripts.js`
 
 The default format is as follows:
 
@@ -233,7 +227,3 @@ The Footer contains an optional copyright where you can place your name as well 
 * Fixed menu toggle on mobile devices
 * Fixed z-index / scrolling issue with mobile menu
 * Mobile menu now closes once a nav element is hit
-
-## License
-
-Completely free (MIT)! See [LICENSE.md](LICENSE.md) for more.
